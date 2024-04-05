@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\bin\Debug\net8.0\ListadoMontos.exe
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\bin\Debug\net8.0\ListadoMontos.deps.json
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\bin\Debug\net8.0\ListadoMontos.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\bin\Debug\net8.0\ListadoMontos.dll
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\bin\Debug\net8.0\ListadoMontos.pdb
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\ListadoMontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\ListadoMontos.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\ListadoMontos.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\ListadoMontos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\ListadoMontos.dll
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\refint\ListadoMontos.dll
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\ListadoMontos.pdb
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\ListadoMontos.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Listado Montos\ListadoMontos\ListadoMontos\obj\Debug\net8.0\ref\ListadoMontos.dll

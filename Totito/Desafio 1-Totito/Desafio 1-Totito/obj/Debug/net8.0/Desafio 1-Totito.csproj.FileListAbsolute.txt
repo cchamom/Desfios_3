@@ -1,0 +1,14 @@
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\bin\Debug\net8.0\Desafio 1-Totito.exe
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\bin\Debug\net8.0\Desafio 1-Totito.deps.json
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\bin\Debug\net8.0\Desafio 1-Totito.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\bin\Debug\net8.0\Desafio 1-Totito.dll
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\bin\Debug\net8.0\Desafio 1-Totito.pdb
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\Desafio 1-Totito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\Desafio 1-Totito.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\Desafio 1-Totito.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\Desafio 1-Totito.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\Desafio 1-Totito.dll
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\refint\Desafio 1-Totito.dll
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\Desafio 1-Totito.pdb
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\Desafio 1-Totito.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Totito\Desafio 1-Totito\Desafio 1-Totito\obj\Debug\net8.0\ref\Desafio 1-Totito.dll
